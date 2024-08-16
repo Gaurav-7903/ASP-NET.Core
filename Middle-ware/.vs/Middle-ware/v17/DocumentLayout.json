@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET Core\\Middle-ware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F6000-A096-4366-A8D5-53BFEE99C1AF}|Middle-ware\\Middle-ware.csproj|c:\\asp.net core\\middle-ware\\middle-ware\\middleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F6000-A096-4366-A8D5-53BFEE99C1AF}|Middle-ware\\Middle-ware.csproj|solutionrelative:middle-ware\\middleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F6000-A096-4366-A8D5-53BFEE99C1AF}|Middle-ware\\Middle-ware.csproj|c:\\asp.net core\\middle-ware\\middle-ware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F6000-A096-4366-A8D5-53BFEE99C1AF}|Middle-ware\\Middle-ware.csproj|solutionrelative:middle-ware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F6000-A096-4366-A8D5-53BFEE99C1AF}|Middle-ware\\Middle-ware.csproj|c:\\asp.net core\\middle-ware\\middle-ware\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F6000-A096-4366-A8D5-53BFEE99C1AF}|Middle-ware\\Middle-ware.csproj|solutionrelative:middle-ware\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP.NET Core\\Middle-ware\\Middle-ware\\Program.cs",
+              "RelativeDocumentMoniker": "Middle-ware\\Program.cs",
+              "ToolTip": "C:\\ASP.NET Core\\Middle-ware\\Middle-ware\\Program.cs",
+              "RelativeToolTip": "Middle-ware\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:00:07.703Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\ASP.NET Core\\Middle-ware\\Middle-ware\\Middleware\\HelloCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Middle-ware\\Middleware\\HelloCustomMiddleware.cs",
+              "ToolTip": "C:\\ASP.NET Core\\Middle-ware\\Middle-ware\\Middleware\\HelloCustomMiddleware.cs",
+              "RelativeToolTip": "Middle-ware\\Middleware\\HelloCustomMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:27:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\ASP.NET Core\\Middle-ware\\Middle-ware\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Middle-ware\\Middleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\ASP.NET Core\\Middle-ware\\Middle-ware\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "Middle-ware\\Middleware\\MyCustomMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:38:12.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
